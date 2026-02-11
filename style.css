@@ -222,8 +222,8 @@ body{
 .badge.pendente{background: rgba(245,158,11,.12); color: #92400e; border-color: rgba(245,158,11,.22)}
 .badge.em_andamento{background: rgba(59,130,246,.12); color: #1e40af; border-color: rgba(59,130,246,.22)}
 .badge.concluido{background: rgba(34,197,94,.12); color: #14532d; border-color: rgba(34,197,94,.22)}
-.badge.programado{background: rgba(34,197,94,.12); color: #14532d; border-color: rgba(34,197,94,.22)}
-
+.badge.programado {background: rgba(239,68,68,.08);color: #b91c1c; border-color: rgba(239,68,68,.18);
+}
 .row-actions{display:flex;gap:8px}
 .small-btn{
   padding:8px 10px;
