@@ -201,13 +201,6 @@ function renderStats(list){
         <div class="label">Concluídos</div>
       </div>
     </div>
-    <div class="stat">
-      <div class="icon">✅</div>
-      <div class="meta">
-        <div class="value">${programado}</div>
-        <div class="label">Programado</div>
-      </div>
-    </div>
   `;
 }
 
